@@ -3,8 +3,7 @@
 https://youtu.be/ZBS4vXmiDDg
 
 ## Outline
-A deep learning model is used to classify plant images based on their edibility and health status. The method involves training convolutional neural networks (CNN) on a dataset of leaves that range from healthy specimens to those with obvious signs of disease or decay.
-
+A deep learning model is used to classify plant images based on their edibility and health status. The method involves training convolutional neural networks (CNN) on a dataset of leaves that range from healthy specimens to those with obvious signs of disease or decay.For detailed code please refer to:
 
 ## Process
 The design and development process for the project involved several steps:
