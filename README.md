@@ -34,7 +34,7 @@ In the spirit of acknowledging the collaborative nature of coding and data scien
 
 Additionally, meticulous attention has been paid to the readability and comprehensibility of the code, ensuring it is sufficiently commented. This not only facilitates better understanding for those seeking to learn from or build upon this work but also aligns with best practices for coding and documentation.
 
-Many thanks to the teachers for the comments! It really taught me a lot! Below are links to relevant materials I looked up in the course of completing this project:
+Many thanks to the teachers for the comments! It really taught me a lot! Below are links to relevant materials I looked up in the course of completing this project （In addition to the weekly tutorials in github that appear in the course）:
 [1].https://git.arts.ac.uk/rfiebrink/ExploringMachineIntelligence_Spring2023/blob/main/week2/ImageClassifier.ipynb
 
 [2].https://www.kaggle.com/code/aaalexlit/from-simple-cnn-to-transfer-learning-on-tpu
